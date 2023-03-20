@@ -15,4 +15,5 @@ This is a simple Todo app created using React and Redux. It allows users to add,
 2. Click the delete button to delete a task.
 3. Click the edit button to edit a task.
 
+## Screenshot
 ![Application Screenshot Image](./Screenshot.png)
